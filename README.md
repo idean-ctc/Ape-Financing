@@ -1,2 +1,1 @@
-# Ape-Financing
-Official repo for Ape Financing, the hit game about...well.
+I won't update this with every update I make in it's early stages, but when a playable release comes out it'll be here!
