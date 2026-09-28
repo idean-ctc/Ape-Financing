@@ -1,6 +1,6 @@
 config.ini
 
-/node/serverstik.js/
+serverstik.js
 
 *.idcache
 *.dll
